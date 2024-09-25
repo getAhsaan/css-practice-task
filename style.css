@@ -1,0 +1,16 @@
+.thirdPara{
+    color: blue;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.specialHeading{
+    background-color: aqua;
+}
+.paraYellow{
+    color: yellow;
+}
+.paraItalic{
+font-style: italic;
+}
